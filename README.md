@@ -55,7 +55,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with hands
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliabbas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliabbas30&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -63,7 +63,7 @@ I'm a passionate **Data Scientist** and **Machine Learning Engineer** with hands
 ### 📊 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliabbas&theme=tokyo-night&hide_border=true&custom_title=My%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliabbas30&theme=tokyo-night&hide_border=true&custom_title=My%20Contribution%20Graph" />
 </div>
 
 ---
